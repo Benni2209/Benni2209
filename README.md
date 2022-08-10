@@ -1,9 +1,17 @@
+<style>
+  
+.test {
+  .margin-top:500px;
+  
+  }
+  </style>
+  
 <div style="float:left;">
 <img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="140px" />
 </div>
 <h2 style="margin-left:160px;">I'm Benni and i learn Coding </h2>
 
-<div style="margin-left:200px"> I've already aquired skills in</div>
+<div class="test"> I've already aquired skills in</div>
 <table style="margin-left:100px;">
 <tr>
 <td>
