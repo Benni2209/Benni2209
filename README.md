@@ -1,4 +1,10 @@
-### Hi there 👋
+
+
+![Star wars](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+
+<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200px" />
+
+##I'm Benni and i learn Coding 
 
 <!--
 **Benni2209/Benni2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
