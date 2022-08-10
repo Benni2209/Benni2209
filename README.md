@@ -1,5 +1,5 @@
 <div style="float:left;">
-<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="140px" />
+<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="540px" />
 </div>
 <h2 style=>I'm Benni and i learn Coding </h2>
 
