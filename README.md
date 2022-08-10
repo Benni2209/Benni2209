@@ -7,7 +7,7 @@
 <table style="margin-left:100px;">
 <tr>
 <td>
-<pstyle ="padding-left:100px; margin-right:100px;">
+<p style ="padding-left:100px; margin-right:100px;">
 <h3> Frontend </h3>
 HTML <br>
 CSS <br>
