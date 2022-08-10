@@ -1,4 +1,3 @@
-<div style="background-image: url('https://miro.medium.com/max/1400/1*mWWz_fABgRc-W2s4VHF6PQ.gif');">
 <div style="float:left;">
 <img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="140px" />
 </div>
@@ -6,7 +5,7 @@
 
 <div style="margin-left:200px"> I've already aquired skills in</div>
 
-<div style ="float:left; margin-left:200px;">
+<div style ="&nbsp;">
 <h3> Frontend </h3>
 HTML <br>
 CSS <br>
