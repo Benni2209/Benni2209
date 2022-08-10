@@ -7,12 +7,12 @@
 <table style="margin-left:100px;">
 <tr>
 <td>
-<div style ="padding-left:100px; margin-right:100px;">
+<pstyle ="padding-left:100px; margin-right:100px;">
 <h3> Frontend </h3>
 HTML <br>
 CSS <br>
 JS <br>
-</div>
+</p>
 </td>
 <td>
 <div style="margin-left:100px; margin-right:100px;">
