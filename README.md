@@ -4,7 +4,7 @@
   .margin-top:500px;
   
   }
-  </style>
+</style>
   
 <div style="float:left;">
 <img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="140px" />
