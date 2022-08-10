@@ -1,18 +1,23 @@
-<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200px" />
+<div style="background-image: url('https://miro.medium.com/max/1400/1*mWWz_fABgRc-W2s4VHF6PQ.gif'); width:1400px;">
+<div style="float:left;">
+<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="140px" />
+</div>
+<h2 style="margin-left:160px;">I'm Benni and i learn Coding </h2>
 
-##I'm Benni and i learn Coding 
+<div style="margin-left:200px"> I've already aquired skills in</div>
 
-<!--
-**Benni2209/Benni2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style ="float:left; margin-left:200px;">
+<h3> Frontend </h3>
+HTML <br>
+CSS <br>
+JS <br>
+</div>
 
-Here are some ideas to get you started:
+<div style="float: right; margin-right:200px;">
+<h3> Backend </h3>
+BASH <br>
+Cypress<br>
+SQL <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+</div>
