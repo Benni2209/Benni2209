@@ -1,29 +1,7 @@
-![Star wars](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
-
-<img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200px" />
-
-##I'm Benni and i learn Coding 
-
-<!--
-**Benni2209/Benni2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div style="float:left;">
 <img src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="140px" />
 </div>
 <h2 style="margin-left:160px;">I'm Benni and i learn Coding </h2>
-</div>
 
 <div style="margin-left:200px"> I've already aquired skills in</div>
 
@@ -41,3 +19,5 @@ Cypress<br>
 SQL <br>
 
 </div>
+</div>
+
